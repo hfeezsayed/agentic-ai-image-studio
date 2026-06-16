@@ -186,7 +186,13 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-Add project screenshots here after deployment.
+### Home Page
+
+![Home Page](./screenshots/home.png)
+
+### Generated Image Result
+
+![Generated Result](./screenshots/result.png)
 
 ---
 
